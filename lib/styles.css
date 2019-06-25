@@ -1,7 +1,10 @@
-.headernav1 {
+header {
     background-color: #6e97d8;
+}
+.headernav1 {
     height: 55px;
     padding-top: 22px;
+    margin-left: 27%;
 }
 
 .headernav1h1 {
@@ -22,4 +25,15 @@
     display: inline;
     padding-right: 15px;
     margin-bottom: 10px;
+}
+.page-wrapper {
+    margin-right: 20%;
+    margin-left: 20%;
+}
+footer {
+    background-color: #6e97d8;
+    height: 76px;
+    position: relative;
+    width: 100%;
+    margin-top: 100%
 }
