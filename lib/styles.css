@@ -1,0 +1,25 @@
+.headernav1 {
+    background-color: #6e97d8;
+    height: 55px;
+    padding-top: 22px;
+}
+
+.headernav1h1 {
+    color: white;
+    border: 3px solid black;
+    padding: 0;
+    margin: 0;
+    display: inline;
+}
+
+.headernav1ul {
+    position: relative;
+    display: inline;
+    margin: 0 auto;
+}
+
+.headernav1ulli {
+    display: inline;
+    padding-right: 15px;
+    margin-bottom: 10px;
+}
